@@ -1,6 +1,4 @@
-[![Quality gate](https://sonarqube.eonhealth.com/api/project_badges/quality_gate?project=vulnerable-app)]
-
-[![Quality Gate Status](https://sonarqube.eonhealth.com/api/project_badges/measure?project=vulnerable-app&metric=alert_status)]
+[![Quality gate](https://sonarqube.eonhealth.com/api/project_badges/quality_gate?project=vulnerable-app)](https://sonarqube.eonhealth.com/dashboard?id=vulnerable-app)
 
 # vulnerable-app & attacker-app
 
