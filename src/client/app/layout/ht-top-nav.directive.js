@@ -20,7 +20,6 @@
 
         /* @ngInject */
         function TopNavController($rootScope, $timeout, userservice) {
-            var vm = this;
             vm.isLoggedIn = $rootScope.isLoggedIn;
             vm.user = undefined;
             vm.logout = logout;
