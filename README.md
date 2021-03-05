@@ -1,3 +1,5 @@
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=aliartiza75_vulnerable-app&metric=code_smells)](https://sonarcloud.io/dashboard?id=aliartiza75_vulnerable-app)
+
 # vulnerable-app & attacker-app
 
 ## ** DEPRECATED **
